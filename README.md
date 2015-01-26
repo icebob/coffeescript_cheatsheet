@@ -1,2 +1,2 @@
-# coffeescript_cheatsheet
+# CoffeeScript Cheatsheet
 My CoffeeScript cheatsheet
